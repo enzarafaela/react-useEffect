@@ -11,5 +11,4 @@ useEffect takes two params.
   
 Example:
 
-```useEffect(() => { },[${dependency}])
-```
+```useEffect(() => { },[${dependency}])```
